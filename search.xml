@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title>生活</title>
+      <link href="/2018/09/15/%E7%94%9F%E6%B4%BB/"/>
+      <url>/2018/09/15/%E7%94%9F%E6%B4%BB/</url>
+      
+        <content type="html"><![CDATA[<h1 id="记录生活的点滴"><a href="#记录生活的点滴" class="headerlink" title="记录生活的点滴"></a>记录生活的点滴</h1><p>2018年，我经历过一些不好的事情，如今我已不再年轻，但我仍笑看人生。别人笑我太疯狂我厌他人看不穿，仍然努力生活坚持自我。我还是原来的那个我，回念以前的我，爱慕现在的我，思考未来的我。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>我第一次写博客</title>
+      <link href="/2018/09/15/%E6%88%91%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8Hexo/"/>
+      <url>/2018/09/15/%E6%88%91%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8Hexo/</url>
+      
+        <content type="html"><![CDATA[<p>2018年，是时候该建立起自己的博客了！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+          <category> JavaScript </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 前段 </tag>
+            
+            <tag> 后端 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2018/09/15/hello-world/"/>
+      <url>/2018/09/15/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+  
+  
+    
+    <entry>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="这里我的介绍"><a href="#这里我的介绍" class="headerlink" title="这里我的介绍"></a>这里我的介绍</h2><ul><li>介绍1</li><li><p>介绍2</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">var a = 1;</span><br><span class="line">function sum()&#123;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li></ul><p> <a href="http://www.baidu.com" target="_blank" rel="noopener">百度</a></p><p> <img src="https://img13.360buyimg.com/mobilecms/s350x128_jfs/t4585/256/2347600524/38315/c59ffb5c/591b233fN3ffc9fc3.jpg" alt=""></p>]]></content>
+      
+    </entry>
+    
+  
+</search>
